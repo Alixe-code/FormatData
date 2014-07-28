@@ -1,6 +1,6 @@
 //
 //  FormatData.h
-//  MyPatroller
+//
 //
 //  Created by 刘 俊 on 13-7-12.
 //
